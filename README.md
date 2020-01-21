@@ -6,28 +6,30 @@ The project includes discussion about the Koopman operator, implemention the EDM
 
 ### Citation
 
-Budišić, M., Mohr, R., and Mezić, I. (2012).
-Applied Koopmanism.
-Chaos: An Interdisciplinary Journal of Nonlinear Science, 22:047510.
+Budišić, M., Mohr, R., and Mezić, I. (2012).  
+Applied Koopmanism.  
+*Chaos: An Interdisciplinary Journal of Nonlinear Science, 22:047510.*  
 
 
-Williams, M. O., Kevrekidis, I. G., and Rowley, C. W. (2015a).
-A data-driven approximation of the Koopman operator: Extending dynamic mode decomposition.
-
-Williams, M. O., Rowley, C. W., and Kevrekidis, I. G. (2015b).
-A kernel-based method for data-driven koopman spectral analysis.
-Journal of Computational Dynamics, 2(2):247–265.
+Williams, M. O., Kevrekidis, I. G., and Rowley, C. W. (2015a).  
+*A data-driven approximation of the Koopman operator: Extending dynamic mode decomposition.*  
 
 
-Li, Q., Dietrich, F., Bollt, E. M., and Kevrekidis, I. G. (2017).
-Extended dynamic mode decomposition with dictionary learning: A data-driven adaptive spectral decomposition of the Koopman operator.
-Chaos: An Interdisciplinary Journal of Nonlinear Science, 27(10):103111.
+Williams, M. O., Rowley, C. W., and Kevrekidis, I. G. (2015b).  
+A kernel-based method for data-driven koopman spectral analysis.  
+*Journal of Computational Dynamics, 2(2):247–265.*  
 
 
-Mauroy, A. and Goncalves, J. (2017).
-Koopman-based lifting techniques for nonlinear systems identification.
-arXiv.
+Li, Q., Dietrich, F., Bollt, E. M., and Kevrekidis, I. G. (2017).  
+Extended dynamic mode decomposition with dictionary learning: A data-driven adaptive spectral decomposition of the Koopman operator.  
+*Chaos: An Interdisciplinary Journal of Nonlinear Science, 27(10):103111.*  
 
-Dietrich, F., Thiem, T. N., and Kevrekidis, I. G. (2019).
-On the koopman operator of algorithms.
-arXiv.
+
+Mauroy, A. and Goncalves, J. (2017).  
+Koopman-based lifting techniques for nonlinear systems identification.  
+*arXiv.*  
+
+
+Dietrich, F., Thiem, T. N., and Kevrekidis, I. G. (2019).  
+On the koopman operator of algorithms.  
+*arXiv.*  
