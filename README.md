@@ -8,7 +8,7 @@ The project includes discussion about the Koopman operator, implemention the EDM
 
 Budišić, M., Mohr, R., and Mezić, I. (2012).  
 Applied Koopmanism.  
-*Chaos: An Interdisciplinary Journal of Nonlinear Science, 22:047510.*  
+*Chaos: An Interdisciplinary Journal of Nonlinear Science,* 22:047510.  
 
 
 Williams, M. O., Kevrekidis, I. G., and Rowley, C. W. (2015a).  
@@ -17,12 +17,12 @@ Williams, M. O., Kevrekidis, I. G., and Rowley, C. W. (2015a).
 
 Williams, M. O., Rowley, C. W., and Kevrekidis, I. G. (2015b).  
 A kernel-based method for data-driven koopman spectral analysis.  
-*Journal of Computational Dynamics, 2(2):247–265.*  
+*Journal of Computational Dynamics,* 2(2):247–265.  
 
 
 Li, Q., Dietrich, F., Bollt, E. M., and Kevrekidis, I. G. (2017).  
 Extended dynamic mode decomposition with dictionary learning: A data-driven adaptive spectral decomposition of the Koopman operator.  
-*Chaos: An Interdisciplinary Journal of Nonlinear Science, 27(10):103111.*  
+*Chaos: An Interdisciplinary Journal of Nonlinear Science,* 27(10):103111.  
 
 
 Mauroy, A. and Goncalves, J. (2017).  
