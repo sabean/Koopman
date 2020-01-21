@@ -12,7 +12,8 @@ Applied Koopmanism.
 
 
 Williams, M. O., Kevrekidis, I. G., and Rowley, C. W. (2015a).  
-*A data-driven approximation of the Koopman operator: Extending dynamic mode decomposition.*  
+A data-driven approximation of the Koopman operator: Extending dynamic mode decomposition.  
+*Journal of Nonlinear Science, 25(6):1307–1346.Journal of Nonlinear Science,* 25(6):1307–1346.  
 
 
 Williams, M. O., Rowley, C. W., and Kevrekidis, I. G. (2015b).  
