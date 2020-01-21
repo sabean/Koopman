@@ -1,10 +1,10 @@
-#Learning dynamical systems from data: Koopman
+# Learning dynamical systems from data: Koopman
 
-##Introduction
+## Introduction
 The project includes discussion about the Koopman operator, implemention the EDMD algorithm(Neural Network as well), testing on an example in the paper by Williams et al., and on a simple example in crowd dynamics. The final discussion of the results and presentation is also included here.
 
 
-## Citation
+### Citation
 
 Budišić, M., Mohr, R., and Mezić, I. (2012).
 Applied Koopmanism.
